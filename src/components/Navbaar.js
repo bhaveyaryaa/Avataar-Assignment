@@ -6,7 +6,7 @@ export default function Navbaar() {
   return (
     <div className="navbar">
       <div className="logo">
-        <img src="./avataarimages/logo.png" alt="" />
+      
         <span>E-COMM</span>
       </div>
 
