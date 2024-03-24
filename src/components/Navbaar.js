@@ -6,7 +6,6 @@ export default function Navbaar() {
   return (
     <div className="navbar">
       <div className="logo">
-      
         <span>E-COMM</span>
       </div>
 
