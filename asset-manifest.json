@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Avataar-Assignment/static/css/main.99305472.css",
-    "main.js": "/Avataar-Assignment/static/js/main.466033dc.js",
+    "main.js": "/Avataar-Assignment/static/js/main.917e0c24.js",
     "static/js/453.31cebd93.chunk.js": "/Avataar-Assignment/static/js/453.31cebd93.chunk.js",
     "static/media/logo.svg": "/Avataar-Assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/slick.svg": "/Avataar-Assignment/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/Avataar-Assignment/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Avataar-Assignment/index.html",
     "main.99305472.css.map": "/Avataar-Assignment/static/css/main.99305472.css.map",
-    "main.466033dc.js.map": "/Avataar-Assignment/static/js/main.466033dc.js.map",
+    "main.917e0c24.js.map": "/Avataar-Assignment/static/js/main.917e0c24.js.map",
     "453.31cebd93.chunk.js.map": "/Avataar-Assignment/static/js/453.31cebd93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99305472.css",
-    "static/js/main.466033dc.js"
+    "static/js/main.917e0c24.js"
   ]
 }
