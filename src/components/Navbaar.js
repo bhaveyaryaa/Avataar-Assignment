@@ -1,5 +1,4 @@
 import React from "react";
-import "./Navbaar.css";
 import { FaSearch } from "react-icons/fa";
 
 export default function Navbaar() {
