@@ -52,3 +52,92 @@ code {
   background-position: center;
   background-size: cover;
 }
+
+.navbar{
+    display: flex;
+    width: Fixed (1, 728px)px;
+        height: Fixed (118px)px;
+        padding: 16px 64px 16px 64px;
+        gap: 80px;
+        opacity: 0px;
+        background: #2F302C;
+        color: white;
+    }
+    
+    .logo{
+       position: relative;
+       display: flex;
+       height: 40px;
+       top: 15px;
+            left: 29px;
+            gap: 0px;
+            opacity: 0px;
+        font-family: Lato;
+            font-size: 32px;
+            font-weight: 800;
+            line-height: 20px;
+            text-align: left;
+    }
+
+    .rightbar{
+        position: relative;
+        display: flex;
+        top: 1px;
+        width: Fill 1356px;
+        height: Hug 44px;
+        gap: 44px;
+        opacity: 0px;
+    }
+    
+.list{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 44px;
+    opacity: 0px;
+}
+
+.listt{
+    width: Hug (50px)px;
+    height: Hug (20px)px;
+    gap: 2px;
+    opacity: 0px;
+    
+}
+.listt a{
+    text-decoration: none;
+    color: white;
+    
+}
+.searchbar{
+    display: flex;
+    border-bottom: 1px solid white;
+    align-items: center;
+}
+
+.dropdown-menu{
+    position: absolute;
+    top: 68px;
+    left: 736px;
+    width: 170px;
+   display: none;
+    background: #2F302C;
+    list-style: none;
+   
+    
+}
+.dropdown-item {
+    height: auto;
+    width: 170px;
+
+color: white;
+background: #2F302C;
+}
+.dropdown-item a{
+    marker: none;
+
+}
+
+.listt:hover> .dropdown-menu{
+    display:initial;
+}
