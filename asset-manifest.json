@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Avataar-Assignment/static/css/main.99305472.css",
+    "main.css": "/Avataar-Assignment/static/css/main.8d9550c2.css",
     "main.js": "/Avataar-Assignment/static/js/main.87fddd82.js",
     "static/js/453.31cebd93.chunk.js": "/Avataar-Assignment/static/js/453.31cebd93.chunk.js",
     "static/media/slick.svg": "/Avataar-Assignment/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -8,12 +8,12 @@
     "static/media/slick.ttf": "/Avataar-Assignment/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Avataar-Assignment/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Avataar-Assignment/index.html",
-    "main.99305472.css.map": "/Avataar-Assignment/static/css/main.99305472.css.map",
+    "main.8d9550c2.css.map": "/Avataar-Assignment/static/css/main.8d9550c2.css.map",
     "main.87fddd82.js.map": "/Avataar-Assignment/static/js/main.87fddd82.js.map",
     "453.31cebd93.chunk.js.map": "/Avataar-Assignment/static/js/453.31cebd93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99305472.css",
+    "static/css/main.8d9550c2.css",
     "static/js/main.87fddd82.js"
   ]
 }
