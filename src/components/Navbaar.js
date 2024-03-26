@@ -12,7 +12,7 @@ export default function Navbaar() {
       <div className="rightbar">
         <ul className="list">
           <li className="listt">
-            <a href="#">HOME</a>
+            <a href="Avataar-Assignment/">HOME</a>
           </li>
           <li className="listt">
             <a href="/">ELECTRONICS</a>
